@@ -7,20 +7,6 @@
 
 Drag & drop UI to build your customized LLM flow using [LangchainJS](https://github.com/hwchase17/langchainjs)
 
-## ⚡Quick Start
-
-1. Install Flowise
-    ```bash
-    npm install -g flowise
-    ```
-2. Start Flowise
-
-    ```bash
-    npx flowise start
-    ```
-
-3. Open [http://localhost:3000](http://localhost:3000)
-
 ## 🐳 Docker
 
 1. Go to `docker` folder at the root of the project
@@ -85,35 +71,6 @@ Flowise has 3 different modules in a single mono repository.
     ```
 
     Any code changes will reload the app automatically on [http://localhost:8080](http://localhost:8080)
-
-## 🔒 Authentication
-
-To enable app level authentication, add `USERNAME` and `PASSWORD` to the `.env` file in `packages/server`:
-
-```
-USERNAME=user
-PASSWORD=1234
-```
-
-## 📖 Documentation
-
-Coming soon
-
-## 💻 Cloud Hosted
-
-Coming soon
-
-## 🌐 Self Host
-
-Coming soon
-
-## 🙋 Support
-
-Feel free to ask any questions, raise problems, and request new features in [discussion](https://github.com/FlowiseAI/Flowise/discussions)
-
-## 🙌 Contributing
-
-See [contributing guide](CONTRIBUTING.md). Reach out to us at [Discord](https://discord.gg/jbaHfsRVBW) if you have any questions or issues.
 
 ## 📄 License
 
